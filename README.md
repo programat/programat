@@ -12,6 +12,7 @@ Passionate about crafting efficient backend solutions and exploring the intricac
 
 ### Current Projects
 - Working on [wemeet project](https://github.com/wemeet-inc) with professional friends in spare time
+- Developing a cross-platform AI-powered fitness app in a startup
 
 ### About Me
 - 🌐 Languages: English (B2), Russian (Native)
