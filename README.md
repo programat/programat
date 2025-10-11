@@ -11,7 +11,7 @@ Passionate about crafting efficient backend solutions and exploring the intricac
 - Bridging the gap between theoretical computer science and practical software engineering
 
 ### Current Projects
-- Working on [wemeet project](https://github.com/wemeet-inc) with professional friends in spare time
+- Working on different projects from personal brand Spark to applying to YCombinator
 - Developing a cross-platform AI-powered fitness app in a startup
 
 ### About Me
