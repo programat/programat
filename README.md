@@ -1,6 +1,6 @@
 ### Hello, I'm Egor 👋
 
-Computer Science Student | Backend Python Developer
+Computer Science Student | Highload Backend Developer
 
 Passionate about crafting efficient backend solutions and exploring the intricacies of computer vision. Committed to continuous learning and applying theoretical knowledge to practical challenges.
 
