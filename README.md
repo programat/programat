@@ -5,7 +5,7 @@ Computer Science Student | Highload Backend Developer
 Passionate about crafting efficient backend solutions and exploring the intricacies of computer vision. Committed to continuous learning and applying theoretical knowledge to practical challenges.
 
 ### Current Focus
-- Deepening my expertise in Python backend development
+- Deepening my expertise in highload development
 - Delving into computer vision concepts and applications
 - Teaching computers to see (they're slow learners) 🤖
 - Bridging the gap between theoretical computer science and practical software engineering
