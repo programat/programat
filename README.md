@@ -1,4 +1,4 @@
-### Hello, I'm Egor 👋
+### Hello, I'm Egor 👋🏻
 
 Computer Science Student | Highload Backend Developer
 
